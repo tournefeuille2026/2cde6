@@ -10,6 +10,13 @@ Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.  
  
 # travail à faire (voir le Cdt de WIMS)
+## pour le 22/09
+Les corrigés de la première fiche sont sur le github
+Wims fiche "intervalles exercices 1,2,3,4
+
+
+## pour le jeudi 17/09
+exercices de la fiche
 ## pour le mardi 15/09
 sur la fiche d'exercices distribuée : exercices 6 et 7
  
