@@ -9,9 +9,16 @@ https://wims.univ-amu.fr/WIMs/wims.cgi?module=adm/class/classes&lang=fr&type=aut
 Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.  
  
-# travail à faire (voir le Cdt de WIMS)
+# travail à faire (voir aussi le Cdt de WIMS)
+L
+
+## pour le vendredi 25/09
+valeur absolue, fiche polycopiée exercices 1 (finir) ,6 (finir) ,9
+bien sûr apprendre les définitions
+Pour ceux qui n'ont pas réussi à se connecter à wims, me prévenir.
+
 ## pour le 22/09
-Les corrigés de la première fiche sont sur le github
+Les corrigés de la première fiche polycopiée sont sur le github
 Wims fiche "intervalles exercices 1,2,3,4
 
 
