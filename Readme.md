@@ -12,7 +12,11 @@ puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cli
 # travail à faire (voir aussi le Cdt de WIMS)
 
 ## Pour le jeudi 01/10
-Prévoir un devoir surveillé : 2h
+Prévoir un devoir surveillé : 1h
+
+## Pour le mercredi 30/10
+rappel : rattrapage 9h-10h salle sur "pronote"
+
 
 ## Pour le mardi 29/10
 Fiche Wims "intervalle et valeur absolue"
