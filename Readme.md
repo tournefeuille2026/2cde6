@@ -10,6 +10,29 @@ Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.
 
 # Travail à faire (voir aussi le Cdt de WIMS)
+#Pour le mardi 3/11 (rentrée)
+
+## Exercices équations affines No32 et 33 sur la fiche polycopiée (aussi sur le github) 
+
++ No41 utiliser la factorisation $a^2-b^2=(a+b)(a-b)$ et la résolution des équations à produit nul.
+
+## wims fiche fonctions affines exercices 1 et 2 (on peut s'aider du programme python pour tracer les courbes par exemple)
+
+## Reprendre le code python avec d'autres fonctions:
+```{python}
+\# fonction, affichage des valeurs et tracé de sa courbe
+def f(x):
+  y=2*x+1
+  return y
+from matplotlib import pyplot as plt
+
+for i in range(100):
+  x=i/100
+  print('x=',x,'f(x)=',f(x))
+  plt.plot(x,f(x),'*r')
+plt.show()
+```
+
 
 # Pour le vendredi 16/10
 Apporter le PC l'Ordi.
