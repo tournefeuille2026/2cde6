@@ -12,7 +12,7 @@ puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cli
 # Travail à faire (voir aussi le Cdt de WIMS)
 #Pour le mardi 3/11 (rentrée)
 
-## Exercices équations affines No32 et 33 sur la fiche polycopiée (aussi sur le github) 
+## Exercices équations affines No32 et 33 sur la fiche polycopiée (aussi sur le github ) 
 
 + No41 utiliser la factorisation $a^2-b^2=(a+b)(a-b)$ et la résolution des équations à produit nul.
 
