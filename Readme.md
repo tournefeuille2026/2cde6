@@ -10,6 +10,17 @@ Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.
 
 # Travail à faire (voir aussi le Cdt de WIMS)
+
+## Pour vendredi 6/11
+Devoir surveillé à refaire avec le corrigé 
+
+Voir sur github dans le répertoire DS/
+github.com/tournefeuille2026/2cde6
+
+Pour ceux qui étaient absents ou n'ont pas été notés, ou ont eu moins de 10 au devoir surveillé (voir pronote), un rattrapage sera organisé avec des règles qui seront précisées à la rentrée. 
+
+Vous pouvez vous entraîner sur ce sujet avec la correction, et si vous êtes vraiment courageux, vous demandez à une bonne IA de vous faire un sujet similaire avec d'autres valeurs.
+
 #Pour le mardi 3/11 (rentrée)
 
 ## Exercices équations affines No32 et 33 sur la fiche polycopiée (aussi sur le github ) 
