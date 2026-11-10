@@ -10,6 +10,23 @@ Sinon, aller sur https://wims.univ-amu.fr, puis cliquer "élèves",
 puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cliquer "entrer" sur le groupe de classes de la bonne année. Puis s'inscrire ou aller travailler.
 
 # Travail à faire (voir aussi le Cdt de WIMS)
+## Pour le mardi 17/11
+
+**s'organiser pour le faire au fur et à mesure**
+
+Exercices sur wims dans les différentes séquences (onglets)
+
+1) fonctions généralités
+
+Fiche fonctions affines 1 à 6
+Fiche "généralité sur les fonctions" exercices 1 à 8
+
+2)  Révisions Fractions
+
+fiche  "fractions2" en entier
+
+3)  Révision calcul litéral:
+Fiche " factoriser-développer" choisir 10 exercices
 
 ## Pour vendredi 6/11
 Devoir surveillé à refaire avec le corrigé 
