@@ -13,6 +13,11 @@ puis chercher avec un mot clé de la classe, par exemple "tournefeuille", et cli
 ## Pour le mardi 17/11
 
 **s'organiser pour le faire au fur et à mesure**
+*D'abord) Terminer le travail déjà demandé:*
+
+- Fiche "nombres réels et valeurs absolue"
+
+- Fiche "Fractions2"
 
 Exercices sur wims dans les différentes séquences (onglets)
 
@@ -21,11 +26,7 @@ Exercices sur wims dans les différentes séquences (onglets)
 Fiche fonctions affines 1 à 6
 Fiche "généralité sur les fonctions" exercices 1 à 8
 
-2)  Révisions Fractions
-
-fiche  "fractions2" en entier
-
-3)  Révision calcul litéral:
+2)  Révision calcul litéral:
 Fiche " factoriser-développer" choisir 10 exercices
 
 ## Pour vendredi 6/11
